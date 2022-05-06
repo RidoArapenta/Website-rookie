@@ -1,0 +1,70 @@
+@font-face {
+  font-family: dark;
+  src: url(Another.otf);
+
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  font-family: cursive;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+
+}
+
+.hell {
+  padding: 5px; 0;
+  background-image: url(Aov02.jpg)
+}
+
+.hell ul li{
+  display: inline-block;
+  color: black;
+}
+
+.hello {
+  width: 80%;
+  margin:0 auto;
+  word-spacing: 20px;
+}
+
+.world
+  {
+    width: 80%;
+    margin:0 auto;
+  }
+
+.world h1 a {
+  font-family: dark;
+}
+
+header ul {
+  float: right;
+}
+header h1{
+  float: left;
+  text-indent: 79px;
+  padding: 25px; 0;
+  color: black;
+}
+header ul li {
+  display: inline-block;
+}
+header ul li a {
+  padding: 25px 25px;
+  display: inline-block;
+}
+
+header ul li a:hover {
+  background-image: url(Aov02.jpg);
+  color: black;
+}
+
+.sans{
+  background-color: rgb(44, 224, 37);
+  color: black;
+}
